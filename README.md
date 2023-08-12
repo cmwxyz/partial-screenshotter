@@ -3,5 +3,6 @@ Lightweight script that allows the user to select an area of the screen to captu
 
 Installation:
 
-1) Edit download_path in the python file so it has your Windows username.
-2) Bind the script to your Pause key using the provided AutoHotkey file.
+1) Edit download_path in the python file so it contains your Windows username.
+2) Edit the paths for your Python instllation and the script in the provided ahk file.
+3) Run the provided AutoHotkey file to bind the script to your Pause key.
