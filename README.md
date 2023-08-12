@@ -7,6 +7,7 @@ Once installed, simply press the key of your choice to start the script. When yo
 
 Installation:
 
-1) Edit download_path in the python file so it contains your Windows username.
-2) Edit the paths for your Python instllation and the script in the provided ahk file.
-3) Run the provided AutoHotkey file to bind the script to your Pause key.
+1) Ensure the pyautogui package is installed.
+2) Edit download_path in the python file so it contains your Windows username.
+3) Edit the paths for your Python instllation and the script in the provided ahk file.
+4) Run the provided AutoHotkey file to bind the script to your Pause key.
